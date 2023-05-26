@@ -1,4 +1,4 @@
-This application empowers users with the ability to effortlessly manage products in an online e-commerce shop. Users can seamlessly add, remove, update, and modify product information through the application's intuitive interface. It serves as a showcase for the robust back-end code that drives the functionality of the e-commerce platform.
+This application empowers users with the ability to effortlessly manage products in an online e-commerce shop. Users can seamlessly add, remove, update, and modify product information through the application's intuitive interface. It serves as a showcase for the robust back-end code that drives the functionality of the e-commerce platform. This application uses Mysql and sequalise. 
 
 How to use:
 - Open integrated terminal in VScode.
